@@ -10,20 +10,20 @@ X-WR-CALDESC:All Pokémon GO Pokémon GO Tour events\, in your local time\,
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-go-tour-unova-global-2025
-DTSTAMP:20250303T011100Z
-SUMMARY:[PGT] Pokémon GO Tour: Unova - Global
+UID:pokemon-go-tour-kalos-global-2026
+DTSTAMP:20251127T011608Z
+SUMMARY:[PGT] Pokémon GO Tour: Kalos – Global
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
- /pokemon-go-tour-unova-global-2025/
-URL:https://leekduck.com/events/pokemon-go-tour-unova-global-2025/
+ /pokemon-go-tour-kalos-global-2026/
+URL:https://leekduck.com/events/pokemon-go-tour-kalos-global-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-03-01-pokemon-go-tour-unova-global-2025/GOTourUnova2025-Global.jp
- g
-DTSTART;VALUE=DATE:20250301
-DTEND;VALUE=DATE:20250302
+ 026/2026-02-28-pokemon-go-tour-kalos-global-2026/pokemon-go-tour-kalos-glo
+ bal-2026.jpg
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PGT] Pokémon GO Tour: Unova - Global
+DESCRIPTION:[PGT] Pokémon GO Tour: Kalos – Global
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
