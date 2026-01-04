@@ -35,6 +35,10 @@
         "name": "Pokémon Spotlight Hour",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_spotlight_hour_skeleton_loading.ics"
     },
+    "pokestop_showcase_skeleton_loading": {
+        "name": "PokéStop Showcase",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokestop_showcase_skeleton_loading.ics"
+    },
     "raid_battles_skeleton_loading": {
         "name": "Raid Battles",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_battles_skeleton_loading.ics"
