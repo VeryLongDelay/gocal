@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:season-23-forever-forward
-DTSTAMP:20260718T020527Z
+DTSTAMP:20260719T022228Z
 SUMMARY:[S] Forever Forward
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-23-forever-forward/
