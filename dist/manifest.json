@@ -3,6 +3,10 @@
         "name": "Choose Your Path",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__choose_your_path.ics"
     },
+    "city_safari": {
+        "name": "City Safari",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__city_safari.ics"
+    },
     "community_day": {
         "name": "Community Day",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__community_day.ics"
@@ -30,6 +34,10 @@
     "max_mondays": {
         "name": "Max Mondays",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__max_mondays.ics"
+    },
+    "pokemon_go_tour": {
+        "name": "Pokémon GO Tour",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_go_tour.ics"
     },
     "pokemon_spotlight_hour": {
         "name": "Pokémon Spotlight Hour",

@@ -10,20 +10,19 @@ X-WR-CALDESC:All Pokémon GO Research events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-horizons-bonus-timed-research-2026
-DTSTAMP:20260922T030701Z
-SUMMARY:[R] Pokémon Horizons Bonus Timed Research
+UID:pokemon-x-adidas-2026
+DTSTAMP:20260927T032721Z
+SUMMARY:[R] adidas × Pokémon Timed Research
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-horizons-bonus-timed-research-2026/
-URL:https://leekduck.com/events/pokemon-horizons-bonus-timed-research-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-09-18-pokemon-horizons-bonus-timed-research-2026/pokemon-horizons
- -bonus-timed-research-2026.png
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260922
+ /pokemon-x-adidas-2026/
+URL:https://leekduck.com/events/pokemon-x-adidas-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemon-x-adidas
+ -2026.jpg
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20270115
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[R] Pokémon Horizons Bonus Timed Research
+DESCRIPTION:[R] adidas × Pokémon Timed Research
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
