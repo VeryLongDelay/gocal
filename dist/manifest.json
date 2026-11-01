@@ -1,8 +1,4 @@
 {
-    "city_safari": {
-        "name": "City Safari",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__city_safari.ics"
-    },
     "community_day": {
         "name": "Community Day",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__community_day.ics"
@@ -58,10 +54,6 @@
     "season": {
         "name": "Season",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__season.ics"
-    },
-    "twitch_drops": {
-        "name": "Twitch Drops",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__twitch_drops.ics"
     },
     "wild_area": {
         "name": "Wild Area",
